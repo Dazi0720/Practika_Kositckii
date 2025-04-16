@@ -1,0 +1,5 @@
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\PR_Kositskii_-\obj\Debug\PR_Kositskii_-.csproj.AssemblyReference.cache
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\PR_Kositskii_-\obj\Debug\MainWindow.g.cs
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\PR_Kositskii_-\obj\Debug\App.g.cs
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\PR_Kositskii_-\obj\Debug\PR_Kositskii_-_MarkupCompile.cache
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\PR_Kositskii_-\obj\Debug\PR_Kositskii_-_MarkupCompile.lref

@@ -1,0 +1,15 @@
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\bin\Debug\RegisterWindow.xaml.exe.config
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\bin\Debug\RegisterWindow.xaml.exe
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\bin\Debug\RegisterWindow.xaml.pdb
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.csproj.AssemblyReference.cache
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\MainWindow.g.cs
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\App.g.cs
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml_MarkupCompile.cache
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml_MarkupCompile.lref
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\MainWindow.baml
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.g.resources
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.Properties.Resources.resources
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.csproj.GenerateResource.cache
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.csproj.CoreCompileInputs.cache
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.exe
+D:\для визуалки\Anderson_Gans\PR_Kositskii_-\RegisterWindow.xaml\obj\Debug\RegisterWindow.xaml.pdb

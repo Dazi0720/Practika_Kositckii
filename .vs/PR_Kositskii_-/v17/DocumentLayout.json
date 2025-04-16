@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\anderson_gans\\pr_kositskii_-\\pr_kositskii_-\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|solutionrelative:pr_kositskii_-\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\pr_kositskii_-\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|solutionrelative:pr_kositskii_-\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257BC17C-38FA-44CE-90C6-EE6D6E693280}|RegisterWindow.xaml\\RegisterWindow.xaml.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\anderson_gans\\pr_kositskii_-\\registerwindow.xaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257BC17C-38FA-44CE-90C6-EE6D6E693280}|RegisterWindow.xaml\\RegisterWindow.xaml.csproj|solutionrelative:registerwindow.xaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\anderson_gans\\pr_kositskii_-\\pr_kositskii_-\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|solutionrelative:pr_kositskii_-\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257BC17C-38FA-44CE-90C6-EE6D6E693280}|RegisterWindow.xaml\\RegisterWindow.xaml.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\anderson_gans\\pr_kositskii_-\\registerwindow.xaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{257BC17C-38FA-44CE-90C6-EE6D6E693280}|RegisterWindow.xaml\\RegisterWindow.xaml.csproj|solutionrelative:registerwindow.xaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\anderson_gans\\pr_kositskii_-\\pr_kositskii_-\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|solutionrelative:pr_kositskii_-\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PR_Kositskii_-||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410D88E7-D87E-4169-A306-00073D6DE948}|PR_Kositskii_-\\PR_Kositskii_-.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\anderson_gans\\pr_kositskii_-\\pr_kositskii_-\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PR_Kositskii_-\\App.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\App.xaml.cs",
+              "RelativeToolTip": "PR_Kositskii_-\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:18:12.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\RegisterWindow.xaml\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RegisterWindow.xaml\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\RegisterWindow.xaml\\MainWindow.xaml",
+              "RelativeToolTip": "RegisterWindow.xaml\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T18:03:01.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\RegisterWindow.xaml\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegisterWindow.xaml\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\RegisterWindow.xaml\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RegisterWindow.xaml\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:03:01.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\App.xaml",
+              "RelativeDocumentMoniker": "PR_Kositskii_-\\App.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\App.xaml",
+              "RelativeToolTip": "PR_Kositskii_-\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T17:55:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PR_Kositskii_-",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\PR_Kositskii_-.csproj",
+              "RelativeDocumentMoniker": "PR_Kositskii_-\\PR_Kositskii_-.csproj",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\PR_Kositskii_-.csproj",
+              "RelativeToolTip": "PR_Kositskii_-\\PR_Kositskii_-.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T12:58:42.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PR_Kositskii_-\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\MainWindow.xaml",
+              "RelativeToolTip": "PR_Kositskii_-\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T12:36:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PR_Kositskii_-\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Anderson_Gans\\PR_Kositskii_-\\PR_Kositskii_-\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PR_Kositskii_-\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:36:15.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR_Kositskii_-", "PR_Kositskii_-\PR_Kositskii_-.csproj", "{410D88E7-D87E-4169-A306-00073D6DE948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterWindow.xaml", "RegisterWindow.xaml\RegisterWindow.xaml.csproj", "{257BC17C-38FA-44CE-90C6-EE6D6E693280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410D88E7-D87E-4169-A306-00073D6DE948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410D88E7-D87E-4169-A306-00073D6DE948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410D88E7-D87E-4169-A306-00073D6DE948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410D88E7-D87E-4169-A306-00073D6DE948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257BC17C-38FA-44CE-90C6-EE6D6E693280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257BC17C-38FA-44CE-90C6-EE6D6E693280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257BC17C-38FA-44CE-90C6-EE6D6E693280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257BC17C-38FA-44CE-90C6-EE6D6E693280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
